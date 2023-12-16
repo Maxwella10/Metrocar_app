@@ -19,3 +19,20 @@ The project aimed to conduct funnel analysis on Metrocar's customer journey to u
 ## About Metrocar’s User Funnel
 
 Metrocar serves as a ride-sharing intermediary, connecting riders with drivers through a user-friendly mobile application. The customer funnel includes stages such as app download, signup, ride request, driver acceptance, ride, payment, and review. Drop-offs at each stage are analysed to identify optimization opportunities.
+
+## Business Questions
+
+The analysis addressed the following key business questions:
+
+Optimizing the Funnel Stages
+
+Platform-Based Marketing Insights
+
+Age Group Performance Analysis
+
+Surge Pricing Strategy
+
+Lowest Conversion Rate Identification
+
+## Conclusion
+This analysis has identified the needs for the company to balance supply and demand during peak hours, the shortage in those hours currently results in a high cancellation rate because many customers don’t want to wait a long time. The suggestions are to implement a surge price technique and ride-sharing option. The last option will also help reduce CO2 emissions by picking up more users during the same journey. The analysis has also identified that the vast majority of the users have an iOS device and fall into the age group between 35 and 44 years old.
