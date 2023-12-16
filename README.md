@@ -10,7 +10,7 @@ The project focused on conducting a comprehensive funnel analysis to identify ar
 
 ## The Project
 
-For all details about the project, I kindly invite you to go through the report available here
+For all details about the project, I kindly invite you to go through the report available [here](https://acrobat.adobe.com/id/urn:aaid:sc:EU:42a6ba54-cc40-4cd0-84bd-46f026440eb6)
 
 ## Project Background
 
