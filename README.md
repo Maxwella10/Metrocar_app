@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the final assessment project for the Data Analysis Program at MasterSchool. The project aimed to analyse the customer funnel of Metrocar, a ride-sharing app similar to Uber/Lyft, using SQL for data querying and Tableau for data visualization.
+This repository contains the final assessment project for the Data Analysis Program at MasterSchool. The project aimed to analyse the customer funnel of Metrocar, a ride-sharing app similar to Uber/Bolt, using SQL for data querying and Tableau for data visualization.
 
 ## Motivation
 
